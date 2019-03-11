@@ -1,2 +1,3 @@
 # Speech-Recognition
-Speech Recognition using MFCC
+Machine Learning
+Speech Recognition using MFCC Filter.
